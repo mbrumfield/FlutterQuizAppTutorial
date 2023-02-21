@@ -1,4 +1,4 @@
-# Flutter Quiz App
+# Flutter Quiz App Tutorial
 
 This project is a starting point for a Flutter application. In this case, a quiz app. 
 
